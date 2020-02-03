@@ -5,7 +5,6 @@ import MainTabNavigator from './MainTabNavigator';
 import UserScreen from '../screens/UserScreen';
 import PostScreen from '../screens/PostScreen';
 import TagScreen from '../screens/TagScreen';
-import IconButton from '../components/IconButton';
 
 const TaskStack = createStackNavigator(
   {
